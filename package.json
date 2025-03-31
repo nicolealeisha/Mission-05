@@ -1,0 +1,23 @@
+{
+  "name": "mono-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./commands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@inquirer/input": "^4.1.8",
+    "@inquirer/prompts": "^7.4.0",
+    "axios": "^1.8.4",
+    "commander": "^13.1.0",
+    "inquirer": "^12.5.0",
+    "mongoose": "^8.13.0"
+  }
+}
