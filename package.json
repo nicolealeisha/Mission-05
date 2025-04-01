@@ -17,6 +17,7 @@
     "@inquirer/prompts": "^7.4.0",
     "axios": "^1.8.4",
     "commander": "^13.1.0",
+    "express": "^5.1.0",
     "inquirer": "^12.5.0",
     "mongoose": "^8.13.0"
   }
